@@ -1,0 +1,3 @@
+rootProject.name = 'TugasStyling'
+
+include ':app'
